@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Resource SYSTEM 'sty.dtd'>
+<Resource type='aamap' name='Avenue' version='4.0.0' author='Ekzander' category='maps'>
+<Map version='0.2.8'>
+<Settings>
+</Settings>
+<World>
+<Field logicalBox='true'>
+<Axes number='8'/>
+<Spawn x='73.5' y='-32.25' angle='90'/>
+<Wall height='4'>
+<Point x="72" y="-27" />
+<Point x="126" y="-27" />
+<Point x="126" y="-33" />
+<Point x="72" y="-33" />
+<Point x="72" y="-27" />
+</Wall>
+<Wall height='4'>
+<Point x="75" y="-33" />
+<Point x="75" y="-29.25" />
+<Point x="78.75" y="-33" />
+</Wall>
+<Wall height='4'>
+<Point x="76.5" y="-27" />
+<Point x="80.25" y="-30.75" />
+<Point x="83.25" y="-30.75" />
+<Point x="79.5" y="-27" />
+</Wall>
+<Wall height='4'>
+<Point x="84.75" y="-33" />
+<Point x="84.75" y="-29.25" />
+<Point x="87.75" y="-29.25" />
+<Point x="84.75" y="-33" />
+</Wall>
+<Wall height='4'>
+<Point x="88.5" y="-27" />
+</Wall>
+<Wall height='4'>
+<Point x="121.5" y="-27" />
+</Wall>
+<Wall height='4'>
+<Point x="88.5" y="-27" />
+<Point x="88.5" y="-30" />
+<Point x="90" y="-31.5" />
+<Point x="93" y="-31.5" />
+<Point x="94.5" y="-30" />
+</Wall>
+<Wall height='4'>
+<Point x="94.5" y="-33" />
+<Point x="96" y="-31.5" />
+<Point x="96" y="-30" />
+<Point x="94.5" y="-28.5" />
+<Point x="93" y="-30" />
+<Point x="90.75" y="-30" />
+<Point x="90" y="-29.25" />
+</Wall>
+<Wall height='4'>
+<Point x="97.5" y="-27" />
+<Point x="97.5" y="-30.75" />
+</Wall>
+<Wall height='4'>
+<Point x="100.5" y="-27" />
+<Point x="103.5" y="-30" />
+<Point x="102" y="-30" />
+<Point x="99" y="-27" />
+</Wall>
+<Wall height='4'>
+<Point x="103.5" y="-33" />
+<Point x="106.5" y="-30" />
+<Point x="105.75" y="-29.25" />
+<Point x="105" y="-29.25" />
+<Point x="105" y="-31.5" />
+</Wall>
+<Wall height='4'>
+<Point x="108.75" y="-29.25" />
+<Point x="110.25" y="-29.25" />
+<Point x="110.25" y="-31.5" />
+<Point x="108.75" y="-31.5" />
+<Point x="108.75" y="-29.25" />
+</Wall>
+<Wall height='4'>
+<Point x="115.5" y="-30" />
+</Wall>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='73.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='79.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='85.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='91.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='97.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='103.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='109.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='115.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='121.5' y='-27'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='76.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='82.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='88.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='94.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='100.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='106.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='112.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='118.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='124.5' y='-33'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='99' y='-30'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='112.5' y='-31.5'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='112.5' y='-30'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='112.5' y='-28.5'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.0499999999999998' growth='0'  >
+<Point x='115.5' y='-30'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='117' y='-30'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='0.75' growth='0'  >
+<Point x='117.75' y='-29.25'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='target'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='125.25' y='-27.75'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1.5' growth='0'  >
+<Point x='121.5' y='-30.75'/>
+</ShapeCircle>
+</Zone>
+<Zone effect='death'>
+<ShapeCircle radius='1' growth='0'  >
+<Point x='77.5' y='-30'/>
+</ShapeCircle>
+</Zone>
+</Field>
+</World>
+</Map>
+</Resource>
+
+
+<!-- Created using Durf's Map Editor :] enjoy! -->
